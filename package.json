@@ -9,7 +9,9 @@
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "4.13.3",
-    "mqtt": "^2.5.0"
+    "mqtt": "^2.5.0",
+    "underscore": "^1.8.3",
+    "async": "^2.1.5"
   },
   "repository": {
     "type": "git",
